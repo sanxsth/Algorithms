@@ -80,7 +80,7 @@
     }
     int main()
     {
-        st segt;
+        st segt; // tree declaration
         LL int n,m;
         scanf("%lld%lld",&n,&m);
         segt.root=segt.build(n,1,n);
