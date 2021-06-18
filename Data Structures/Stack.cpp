@@ -54,12 +54,11 @@ int main()
 	Stack* s = new Stack();
 	
 	/* Usage
-	 *
-     * s->push(4);
-     * s->peek(); // returns 4
-     * s->pop(); // returns 4
-     * s->pop(); // throws an error sicne the stack is now empty.
-     */
+	* s->push(4);
+	* s->peek(); // returns 4
+	* s->pop(); // returns 4
+	* s->pop(); // throws an error sicne the stack is now empty.
+	*/
 
 	return 0;
 }
