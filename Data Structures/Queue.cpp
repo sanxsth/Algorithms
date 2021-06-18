@@ -70,7 +70,7 @@ int main()
     /* usage
     * q.enqueue(1); [1]
     * q.enqueue(2); [1, 2]
-	* q.enqueue(3); [1, 2, 3]
+    * q.enqueue(3); [1, 2, 3]
     * q.dequeue(); [2, 3]
     * q.dequeue(); [3]
     * q.get_count(); returns 1
